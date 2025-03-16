@@ -35,6 +35,6 @@ class MyApp extends StatelessWidget {
       title: 'Music Player',
       theme: darkTheme,
       home: const Songpage(),
-    );
+    ); 
   }
 }
