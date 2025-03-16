@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459742488079",
+    "project_id": "musicb-7000a",
+    "storage_bucket": "musicb-7000a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459742488079:android:434d5155f78729f91fa57a",
+        "android_client_info": {
+          "package_name": "com.example.ms_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIb_KWRCpSgF257tm4SWFhKICXfyB8iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
